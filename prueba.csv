@@ -1,0 +1,6 @@
+,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Complain,Satisfaction Score,Card Type,Point Earned,RowNumber,CustomerId
+0,Swift,26,France,Female,24,1,3254235,1,1,1,452234,1,2,GOLD,35,1,324125
+1,Holland,7984,France,Male,67,2,542234,1,1,1,435254,1,2,GOLD,645,2,564
+2,Trump,46,France,Male,85,3,42524352,1,1,1,32454346,1,2,GOLD,345,3,52354426
+3,Musk,87,France,Male,99,4,23452345,1,1,1,4576568,1,2,GOLD,657,4,643
+4,Carpenter,1,France,Female,123,5,325423435,1,1,1,7658687,1,2,GOLD,923,5,2
