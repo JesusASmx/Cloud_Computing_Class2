@@ -1,2 +1,2 @@
-# Cloud_Computing_Class2
+# Cloud_Computing@ITESM
 Clase de Cloud Computing en el ITESM
